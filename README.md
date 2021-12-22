@@ -10,4 +10,6 @@ This is a Core Java Project. This project contains as below:
 4. Inner Class
 5. Exception 
 6. Thread
-7. Logical Interview questions
+7. Design Pattern
+8. Star Pattern
+9. Logical Interview questions
